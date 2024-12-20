@@ -12,19 +12,19 @@ Welcome to my GitHub profile! I'm a student persuing B.E. Computer Science Engin
 ---
 
 ### 🚀 **Certificates:**
-- 🛡️ **Google Cyber Security Certificate(link to project)**  
+- 🛡️ **Google Cyber Security Certificate
   Issues by : Coursera (Google)
 
-- 🔍 **Google AI Essentials(link to project)**  
+- 🔍 **Google AI Essentials
   Issues by : Coursera (Google)
 
-- 🔍 **Python # Programming Specialization(link to project)**  
+- 🔍 **Python # Programming Specialization
   Issues by: University of Michigan (via Coursera)
 
-- 🔍 **Ethical Hacking(link to project)**  
+- 🔍 **Ethical Hacking
   Issues by: Internshala Taining
 
-- 🔍 **Network Basics(link to project)**  
+- 🔍 **Network Basics
   Issues by CISCO Networking Academy
 
 ---
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a student persuing B.E. Computer Science Engin
 
 ### 🌐 **Find Me Online:**
 - [LinkedIn](https://www.linkedin.com/in/prabhat-bhunya/)
-- [Mail] prabhatbhunya1909@gmail.com
+-  prabhatbhunya1909@gmail.com
 
 ---
 
