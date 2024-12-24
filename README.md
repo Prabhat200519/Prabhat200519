@@ -15,16 +15,16 @@ Welcome to my GitHub profile! I'm a student persuing B.E. Computer Science Engin
 - 🛡️ **Google Cyber Security Certificate
   Issues by : Coursera (Google)
 
-- 🔍 **Google AI Essentials
+- 🔍 **Google AI Essentials**
   Issues by : Coursera (Google)
 
-- 🔍 **Python # Programming Specialization
+- 🔍 **Python # Programming Specialization**
   Issues by: University of Michigan (via Coursera)
 
-- 🔍 **Ethical Hacking
+- 🔍 **Ethical Hacking**
   Issues by: Internshala Taining
 
-- 🔍 **Network Basics
+- 🔍 **Network Basics**
   Issues by CISCO Networking Academy
 
 ---
