@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student persuing B.E. Computer Science Engin
 ---
 
 ### 🚀 **Certificates:**
-- 🛡️ **Google Cyber Security Certificate
+- 🛡️ **Google Cyber Security Certificate**
   Issues by : Coursera (Google)
 
 - 🔍 **Google AI Essentials**
