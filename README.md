@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a student persuing B.E. Computer Science Engin
 ---
 
 ### 🛠️ **Skills:**
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, Java
 - **Cybersecurity Focus:** Red Teaming, Penetration Testing
 - **Tools:** Wireshark, Nmap, Burp Suite, Metasploit
 
